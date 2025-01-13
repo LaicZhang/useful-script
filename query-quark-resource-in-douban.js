@@ -4,6 +4,7 @@
 // @namespace    https://github.com/laiczhang
 // @description  在豆瓣电影/电视剧页面显示夸克网盘资源搜索结果。目前推荐夸克网盘vip使用。
 // @license      GPL 3.0
+// @version      0.2
 // @author       laiczhang
 // @match        https://movie.douban.com/subject/*
 // @grant        GM_xmlhttpRequest
